@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\bin\Debug\net6.0\UC-10 EmpWageByInterface.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\bin\Debug\net6.0\UC-10 EmpWageByInterface.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\bin\Debug\net6.0\UC-10 EmpWageByInterface.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\bin\Debug\net6.0\UC-10 EmpWageByInterface.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\bin\Debug\net6.0\UC-10 EmpWageByInterface.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\refint\UC-10 EmpWageByInterface.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\UC-10 EmpWageByInterface.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageByInterface\obj\Debug\net6.0\ref\UC-10 EmpWageByInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\bin\Debug\net6.0\UC-4 SwitchCase.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\bin\Debug\net6.0\UC-4 SwitchCase.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\bin\Debug\net6.0\UC-4 SwitchCase.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\bin\Debug\net6.0\UC-4 SwitchCase.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\bin\Debug\net6.0\UC-4 SwitchCase.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\refint\UC-4 SwitchCase.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\UC-4 SwitchCase.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-4 SwitchCase\obj\Debug\net6.0\ref\UC-4 SwitchCase.dll

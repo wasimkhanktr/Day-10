@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\bin\Debug\net6.0\UC-14 TotalWageQueried.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\bin\Debug\net6.0\UC-14 TotalWageQueried.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\bin\Debug\net6.0\UC-14 TotalWageQueried.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\bin\Debug\net6.0\UC-14 TotalWageQueried.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\bin\Debug\net6.0\UC-14 TotalWageQueried.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\refint\UC-14 TotalWageQueried.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\UC-14 TotalWageQueried.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-14 TotalWageQueried\obj\Debug\net6.0\ref\UC-14 TotalWageQueried.dll

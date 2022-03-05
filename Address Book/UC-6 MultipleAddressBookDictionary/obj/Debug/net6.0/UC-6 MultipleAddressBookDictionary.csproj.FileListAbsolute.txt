@@ -1,0 +1,10 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\Address Book\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\Address Book\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\Address Book\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\Address Book\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\Address Book\UC-6 MultipleAddressBookDictionary\obj\Debug\net6.0\UC-6 MultipleAddressBookDictionary.csproj.CoreCompileInputs.cache

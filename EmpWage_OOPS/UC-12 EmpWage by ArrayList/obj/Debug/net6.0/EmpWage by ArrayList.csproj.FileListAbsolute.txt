@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\bin\Debug\net6.0\EmpWage by ArrayList.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\bin\Debug\net6.0\EmpWage by ArrayList.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\bin\Debug\net6.0\EmpWage by ArrayList.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\bin\Debug\net6.0\EmpWage by ArrayList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\bin\Debug\net6.0\EmpWage by ArrayList.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\refint\EmpWage by ArrayList.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\EmpWage by ArrayList.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage by ArrayList\obj\Debug\net6.0\ref\EmpWage by ArrayList.dll

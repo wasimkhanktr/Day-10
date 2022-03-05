@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\bin\Debug\net6.0\UC-5 MultiplePerson.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\bin\Debug\net6.0\UC-5 MultiplePerson.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\bin\Debug\net6.0\UC-5 MultiplePerson.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\bin\Debug\net6.0\UC-5 MultiplePerson.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\bin\Debug\net6.0\UC-5 MultiplePerson.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\refint\UC-5 MultiplePerson.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\UC-5 MultiplePerson.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-5 MultiplePerson\obj\Debug\net6.0\ref\UC-5 MultiplePerson.dll

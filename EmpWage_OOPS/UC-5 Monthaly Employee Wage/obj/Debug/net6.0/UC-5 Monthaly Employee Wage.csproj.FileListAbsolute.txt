@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\bin\Debug\net6.0\UC-5 Monthaly Employee Wage.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\bin\Debug\net6.0\UC-5 Monthaly Employee Wage.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\bin\Debug\net6.0\UC-5 Monthaly Employee Wage.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\bin\Debug\net6.0\UC-5 Monthaly Employee Wage.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\bin\Debug\net6.0\UC-5 Monthaly Employee Wage.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\refint\UC-5 Monthaly Employee Wage.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\UC-5 Monthaly Employee Wage.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-5 Monthaly Employee Wage\obj\Debug\net6.0\ref\UC-5 Monthaly Employee Wage.dll

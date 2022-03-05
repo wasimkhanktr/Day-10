@@ -1,0 +1,5 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageBuilder\obj\Debug\net6.0\UC-10 EmpWageBuilder.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageBuilder\obj\Debug\net6.0\UC-10 EmpWageBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageBuilder\obj\Debug\net6.0\UC-10 EmpWageBuilder.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageBuilder\obj\Debug\net6.0\UC-10 EmpWageBuilder.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\UC-10 EmpWageBuilder\obj\Debug\net6.0\UC-10 EmpWageBuilder.csproj.CoreCompileInputs.cache

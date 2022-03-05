@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC-5 Monthaly Employee Wage/1.0.0": {
+        "runtime": {
+          "UC-5 Monthaly Employee Wage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC-5 Monthaly Employee Wage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

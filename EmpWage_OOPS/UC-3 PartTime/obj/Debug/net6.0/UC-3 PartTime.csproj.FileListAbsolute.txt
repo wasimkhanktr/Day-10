@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\bin\Debug\net6.0\UC-3 PartTime.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\bin\Debug\net6.0\UC-3 PartTime.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\bin\Debug\net6.0\UC-3 PartTime.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\bin\Debug\net6.0\UC-3 PartTime.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\bin\Debug\net6.0\UC-3 PartTime.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\refint\UC-3 PartTime.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\UC-3 PartTime.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-3 PartTime\obj\Debug\net6.0\ref\UC-3 PartTime.dll

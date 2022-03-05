@@ -1,0 +1,10 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmployeeWageUsingOOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage_OOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage_OOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage_OOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage_OOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-10\EmpWage_OOPS\UC-7 ClassEmployeeWage\obj\Debug\net6.0\UC-7 ClassEmployeeWage.csproj.CoreCompileInputs.cache
